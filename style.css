@@ -40,11 +40,15 @@ img {
   margin-top: 10px;
 }
 
-/* list */
+/* list_box */
 
-.list {
+.list_box {
   width: 90%;
   left: 30%;
   margin: 25px 25px 25px 25px;
   position: absolute;
+}
+
+.list li h5 {
+  display: inline-block;
 }
